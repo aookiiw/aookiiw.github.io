@@ -164,9 +164,10 @@ section{
 .underblog-title{
     margin-top: 150px;
     text-align: center;
+    font-size: 50px;
 }
 .underblog-img{
-    width: 500px;
+    width: 750px;
     padding-top: 30px;
     padding-bottom: 30px;
     display: block;
