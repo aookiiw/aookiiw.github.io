@@ -28,7 +28,7 @@ errorButton.addEventListener('click', () => {
 
 buttons.forEach(button => {
     button.addEventListener('click', () => {
-        if(button.textContent === 'SÍ'){
+        if(button.textContent === 'YES'){
             updateDisplay(ohyes);
             buttons.forEach(btn => btn.style.display = 'none');
         }
